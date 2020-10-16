@@ -6,7 +6,7 @@ import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-import com.example.kbktestproject.DataProvider;
+import com.example.kbktestproject.utilities.DataProvider;
 import com.example.kbktestproject.model.UserTask;
 
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package com.example.kbktestproject;
+package com.example.kbktestproject.utilities;
 
 public interface OnUserActionListener {
     void taskAdded();

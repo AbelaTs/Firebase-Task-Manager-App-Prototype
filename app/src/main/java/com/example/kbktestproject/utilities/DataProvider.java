@@ -1,10 +1,8 @@
-package com.example.kbktestproject;
+package com.example.kbktestproject.utilities;
 
 import android.content.Context;
-import android.content.DialogInterface;
 
 import androidx.annotation.NonNull;
-import androidx.appcompat.app.AlertDialog;
 import androidx.lifecycle.MutableLiveData;
 
 import com.example.kbktestproject.model.UserTask;
